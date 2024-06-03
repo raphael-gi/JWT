@@ -1,5 +1,8 @@
 [package]
 name = "jwt-kenji"
+description = "Create and verify your JWTs blazingly fast in rust"
+repository = "https://github.com/raphael-gi/JWT"
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
 
